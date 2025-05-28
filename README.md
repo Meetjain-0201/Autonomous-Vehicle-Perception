@@ -1,6 +1,6 @@
 # Autonomous Vehicle Perception Stack
 
-![Autonomous Vehicle Perception](visualizations/banner.png) <!-- Add a banner image later -->
+![Autonomous Vehicle Perception](Road_Segmentation/outputs/0.png) <!-- Add a banner image later -->
 
 A comprehensive perception stack for autonomous vehicles including road segmentation, object detection, tracking, and 3D visualization.
 
